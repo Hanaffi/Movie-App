@@ -5,7 +5,7 @@ React JS Movie App Using Data from The Movie Database (TMDB) API. <br/>
 ## Features
 
 1. `List Popular Movies`
-2. `View Details About Movies including poster and rating`
+2. `View Details About Movies Including Poster and Rating`
 3. `Search Movies by Title`
 
 
